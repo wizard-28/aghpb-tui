@@ -6,6 +6,9 @@
   src="https://img.shields.io/github/actions/workflow/status/wizard-28/aghpb-tui/ci.yml?label=CI&logo=github&style=for-the-badge"></a>
 </p>
 
+![image](https://github.com/user-attachments/assets/f6b4b712-c7b9-4965-b683-0ea37f616214)
+
+
 ## What is this?
 
 AGHPB-TUI (Anime Girls Holding Programming Books - TUI) is a TUI client for [Anime Girls Holding Programming Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books).
